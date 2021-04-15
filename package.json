@@ -1,0 +1,26 @@
+{
+  "name": "vedantu",
+  "version": "1.0.0",
+  "description": "This is assignment test as per the interview process",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sailaja-thippabhotla/Mylearning.git"
+  },
+  "author": "Sailaja Thippabhotla ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sailaja-thippabhotla/Mylearning/issues"
+  },
+  "homepage": "https://github.com/sailaja-thippabhotla/Mylearning#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
